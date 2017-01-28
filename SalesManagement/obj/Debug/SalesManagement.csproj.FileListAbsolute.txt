@@ -1,0 +1,472 @@
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe.config
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Accounts.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Users.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.pdb
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\Mostafa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\aOa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\aoa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\aoa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\aoa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\aoa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe.config
+C:\Users\aoa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe
+C:\Users\aoa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.pdb
+C:\Users\aoa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe
+C:\Users\aoa\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.pdb
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe.config
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.pdb
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.pdb
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.dll
+E:\الشركــة\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe.config
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.pdb
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.pdb
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe.config
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.pdb
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.exe
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\bin\Debug\برنامج إدارة مبيعات ومشتريات المنشأة.pdb
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\bin\Debug\برنامج إدارة المنشأة.exe.config
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\bin\Debug\برنامج إدارة المنشأة.exe
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\bin\Debug\برنامج إدارة المنشأة.pdb
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\برنامج إدارة المنشأة.exe
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Debug\برنامج إدارة المنشأة.pdb
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Debug\برنامج إدارة المنشأة.exe.config
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\برنامج إدارة المنشأة.exe
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\برنامج إدارة المنشأة.pdb
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Debug\برنامج إدارة المنشأة.exe
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Debug\برنامج إدارة المنشأة.pdb
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Debug\alamya.exe.config
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Debug\almohands.exe.config
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Debug\almohands.exe
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Debug\almohands.pdb
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\almohands.exe
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Debug\almohands.pdb
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Debug\almohands.exe.config
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\almohands.exe
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\almohands.pdb
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Debug\almohands.exe
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Debug\almohands.pdb
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Debug\almohands.exe.config
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\almohands.exe
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\almohands.pdb
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Debug\almohands.exe
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Debug\almohands.pdb
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\al3alamya.exe.config
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\al3alamya.exe
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\al3alamya.pdb
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\al3alamya.exe
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\al3alamya.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\al3alamya.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\al3alamya.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\al3alamya.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\al3alamya.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\al3alamya.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Debug\SalesManagement.View.Home.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Permissions.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe.config
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.pdb
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\bin\Debug\MetroFramework.Design.dll
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\bin\Debug\MetroFramework.dll
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.AboutHelpe.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BackProducts.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.BrowserForm.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Categories.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Customers.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.CustomersManagement.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.DayReportsForm.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Login.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.MonthReports.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.NewOrder.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.OrderDetailes.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Papers.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Permissions.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Products.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsChooseList.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProductsUnits.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Providers.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ProvidersManagement.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Movements.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.ReportsCategories.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Settings.resources
+C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Database.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.AutoBackup.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Expenses.resources

@@ -1,0 +1,906 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{38F8F7DB-2EB6-48DF-9CD6-CB36CCBE1CBF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SalesManagement</RootNamespace>
+    <AssemblyName>SalesManagement</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+    <PublishUrl>C:\Users\Administrator\Desktop\WebSite\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>false</MapFileExtensions>
+    <TargetCulture>ar-EG</TargetCulture>
+    <ProductName>Sales Management</ProductName>
+    <PublisherName>Sales Management</PublisherName>
+    <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Aha-Soft-Free-Large-Boss-Supervisor.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>ED7EDE139D9925D3C3438B69DA311C0E2CDA8F78</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>SalesManagement_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.5.0.0\lib\net40\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Design">
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="MetroFramework.Fonts, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SQL Server\110\SDK\Assemblies\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SQL Server\110\SDK\Assemblies\Microsoft.SqlServer.Management.Sdk.Sfc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SQL Server\110\SDK\Assemblies\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SQL Server\110\SDK\Assemblies\Microsoft.SqlServer.SmoExtended.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SqlEnum, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\Program Files\Microsoft SQL Server\110\SDK\Assemblies\Microsoft.SqlServer.SqlEnum.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Management.Instrumentation" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Model\_Accounts.cs" />
+    <Compile Include="Model\_Categories.cs" />
+    <Compile Include="Model\DB_access.cs" />
+    <Compile Include="Model\_Customers.cs" />
+    <Compile Include="Model\_Expenses.cs" />
+    <Compile Include="Model\_Orders.cs" />
+    <Compile Include="Model\_Papers.cs" />
+    <Compile Include="Model\_Products.cs" />
+    <Compile Include="Model\_Providers.cs" />
+    <Compile Include="Model\_Reports.cs" />
+    <Compile Include="Model\_Settings.cs" />
+    <Compile Include="Model\_Users.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\ReportsViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reports\ReportsViewer.Designer.cs">
+      <DependentUpon>ReportsViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reports\rpt_AllCustomersDetailes.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_AllCustomersDetailes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_AllProvidersDetailes.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_AllProvidersDetailes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_company_info.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_company_info.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_CustomerAccountReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_CustomerAccountReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_CustomerPapersReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_CustomerPapersReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_DayBackReports.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_DayBackReports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_DayBuyReportss.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_DayBuyReportss.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_DayReports.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_DayReports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_LastBackOrderPrint.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_LastBackOrderPrint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_LastBuysOrderPrint.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_LastBuysOrderPrint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_LastSalesOrderPrint.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_LastSalesOrderPrint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_MonthBackReports.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_MonthBackReports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_MonthBuysReports.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_MonthBuysReports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_MonthSalesReports.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_MonthSalesReports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Model\USBSerialNumber.cs" />
+    <Compile Include="Reports\rpt_ProviderAccountReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_ProviderAccountReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reports\rpt_ProviderrPapersReport.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rpt_ProviderrPapersReport.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="View\AboutHelpe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AboutHelpe.Designer.cs">
+      <DependentUpon>AboutHelpe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AutoBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AutoBackup.Designer.cs">
+      <DependentUpon>AutoBackup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\BackProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\BackProducts.Designer.cs">
+      <DependentUpon>BackProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\BrowserForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\BrowserForm.Designer.cs">
+      <DependentUpon>BrowserForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Categories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Categories.designer.cs">
+      <DependentUpon>Categories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Customers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Customers.Designer.cs">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CustomersManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CustomersManagement.Designer.cs">
+      <DependentUpon>CustomersManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Database.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Database.Designer.cs">
+      <DependentUpon>Database.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\DayReportsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\DayReportsForm.Designer.cs">
+      <DependentUpon>DayReportsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Expenses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Expenses.Designer.cs">
+      <DependentUpon>Expenses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FirstUserToAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FirstUserToAdd.Designer.cs">
+      <DependentUpon>FirstUserToAdd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\MonthReports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\MonthReports.Designer.cs">
+      <DependentUpon>MonthReports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\NewOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\NewOrder.designer.cs">
+      <DependentUpon>NewOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\OrderDetailes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\OrderDetailes.Designer.cs">
+      <DependentUpon>OrderDetailes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Papers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Papers.Designer.cs">
+      <DependentUpon>Papers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Permissions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Permissions.Designer.cs">
+      <DependentUpon>Permissions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\PersonAccountInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\PersonAccountInfo.Designer.cs">
+      <DependentUpon>PersonAccountInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Products.Designer.cs">
+      <DependentUpon>Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ProductsChooseList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ProductsChooseList.Designer.cs">
+      <DependentUpon>ProductsChooseList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ProductsUnits.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ProductsUnits.Designer.cs">
+      <DependentUpon>ProductsUnits.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Providers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Providers.Designer.cs">
+      <DependentUpon>Providers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ProvidersManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ProvidersManagement.Designer.cs">
+      <DependentUpon>ProvidersManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Movements.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Movements.Designer.cs">
+      <DependentUpon>Movements.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\ReportsCategories.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ReportsCategories.Designer.cs">
+      <DependentUpon>ReportsCategories.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Settings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\ReportsViewer.resx">
+      <DependentUpon>ReportsViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_AllCustomersDetailes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_AllCustomersDetailes.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_AllProvidersDetailes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_AllProvidersDetailes.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_company_info.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_company_info.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_CustomerAccountReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_CustomerAccountReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_CustomerPapersReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_CustomerPapersReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_DayBackReports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_DayBackReports.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_DayBuyReportss.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_DayBuyReportss.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_DayReports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_DayReports.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_LastBackOrderPrint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_LastBackOrderPrint.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_LastBuysOrderPrint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_LastBuysOrderPrint.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_LastSalesOrderPrint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_LastSalesOrderPrint.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_MonthBackReports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_MonthBackReports.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_MonthBuysReports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_MonthBuysReports.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_MonthSalesReports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_MonthSalesReports.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_ProviderAccountReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ProviderAccountReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reports\rpt_ProviderrPapersReport.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rpt_ProviderrPapersReport.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AboutHelpe.resx">
+      <DependentUpon>AboutHelpe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AutoBackup.resx">
+      <DependentUpon>AutoBackup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\BackProducts.resx">
+      <DependentUpon>BackProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\BrowserForm.resx">
+      <DependentUpon>BrowserForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Categories.resx">
+      <DependentUpon>Categories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Customers.resx">
+      <DependentUpon>Customers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CustomersManagement.resx">
+      <DependentUpon>CustomersManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Database.resx">
+      <DependentUpon>Database.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\DayReportsForm.resx">
+      <DependentUpon>DayReportsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Expenses.resx">
+      <DependentUpon>Expenses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FirstUserToAdd.resx">
+      <DependentUpon>FirstUserToAdd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\MonthReports.resx">
+      <DependentUpon>MonthReports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\NewOrder.resx">
+      <DependentUpon>NewOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\OrderDetailes.resx">
+      <DependentUpon>OrderDetailes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Papers.resx">
+      <DependentUpon>Papers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Permissions.resx">
+      <DependentUpon>Permissions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\PersonAccountInfo.resx">
+      <DependentUpon>PersonAccountInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Products.resx">
+      <DependentUpon>Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ProductsChooseList.resx">
+      <DependentUpon>ProductsChooseList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ProductsUnits.resx">
+      <DependentUpon>ProductsUnits.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Providers.resx">
+      <DependentUpon>Providers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ProvidersManagement.resx">
+      <DependentUpon>ProvidersManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Movements.resx">
+      <DependentUpon>Movements.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ReportsCategories.resx">
+      <DependentUpon>ReportsCategories.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SalesManagement_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="SAP.CrystalReports14.NET.2.0">
+      <Visible>False</Visible>
+      <ProductName>SAP Crystal Reports Runtime Engine for .NET Framework</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\add.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\plus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\s_success.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\deleteIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sync.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\addIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b_snewtbl.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b_edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b_search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b_undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\barcode.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13_barcode.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\smallsuccess.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-192.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\b_drop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minus.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading[4].gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginuser.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loading[1].gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AAfgU2v[1].gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Aha-Soft-Free-Large-Boss-Supervisor.ico" />
+    <Content Include="Initial\products_db_script.sql" />
+    <None Include="Resources\1484512983_Edit-Male-User.png" />
+    <None Include="Resources\1484512976_accept-database.png" />
+    <None Include="Resources\1484513019_Database-Upload.png" />
+    <None Include="Resources\1484715376_preferences-contact-list.png" />
+    <None Include="Resources\1484515655_010.png" />
+    <None Include="Resources\1484515671_Padlock_User_Control.png" />
+    <None Include="Resources\1484704212_Search.png" />
+    <None Include="Resources\1484704139_xmag.png" />
+    <None Include="Resources\search.png" />
+    <None Include="Resources\sales-icon-17.jpg" />
+    <None Include="Resources\korganizer-icon21.png" />
+    <None Include="Resources\green_icon2.png" />
+    <None Include="Resources\feature-user-management_d82.png" />
+    <None Include="Resources\favicon_userscripts2.png" />
+    <None Include="Resources\favicon2.ico" />
+    <None Include="Resources\eset_user2.png" />
+    <None Include="Resources\error %282%292.png" />
+    <None Include="Resources\edit22.png" />
+    <None Include="Resources\download2.gif" />
+    <None Include="Resources\desktop-icon2.png" />
+    <None Include="Resources\Designcontest-Ecommerce-Business-Invoice2.ico" />
+    <None Include="Resources\default-user2.png" />
+    <None Include="Resources\company2.png" />
+    <None Include="Resources\b_usredit2.png" />
+    <None Include="Resources\login21.jpg" />
+    <None Include="Resources\Login_page_design_by_Surfer_HUN[9]1.jpg" />
+    <None Include="Resources\login_button1.png" />
+    <None Include="Resources\korganizer-icon11.png" />
+    <None Include="Resources\korganizer-icon3.png" />
+    <None Include="Resources\invoice-icon %281%291.png" />
+    <None Include="Resources\install-btn-red[2]1.png" />
+    <None Include="Resources\info1.png" />
+    <None Include="Resources\icon_16[1]1.png" />
+    <None Include="Resources\icon_16 %284%291.png" />
+    <None Include="Resources\icon_16 %283%291.png" />
+    <None Include="Resources\icon_12821.png" />
+    <None Include="Resources\icon_1281.png" />
+    <None Include="Resources\hpskyline1.jpg" />
+    <None Include="Resources\Haiku1.png" />
+    <None Include="Resources\green_icon1.png" />
+    <None Include="Resources\feature-user-management_d81.png" />
+    <None Include="Resources\favicon_userscripts1.png" />
+    <None Include="Resources\favicon1.ico" />
+    <None Include="Resources\eset_user1.png" />
+    <None Include="Resources\error %282%291.png" />
+    <None Include="Resources\edit21.png" />
+    <None Include="Resources\download1.gif" />
+    <None Include="Resources\desktop-icon1.png" />
+    <None Include="Resources\Designcontest-Ecommerce-Business-Invoice1.ico" />
+    <None Include="Resources\delete2[1]1.png" />
+    <None Include="Resources\default-user1.png" />
+    <None Include="Resources\default_user1.png" />
+    <None Include="Resources\default[1]1.png" />
+    <None Include="Resources\D83DDC48[1]1.png" />
+    <None Include="Resources\company1.png" />
+    <None Include="Resources\bashaier_logo1.png" />
+    <None Include="Resources\back1.jpg" />
+    <None Include="Resources\b_usrlist %282%291.png" />
+    <None Include="Resources\b_usrlist1.png" />
+    <None Include="Resources\b_usredit1.png" />
+    <None Include="Resources\b_usradd %282%291.png" />
+    <None Include="Resources\b_sql1.png" />
+    <None Include="Resources\b_sbrowse1.png" />
+    <None Include="Resources\b_drop2.png" />
+    <None Include="Resources\b_drop1.png" />
+    <None Include="Resources\b_chart2.png" />
+    <None Include="Resources\b_chart1.png" />
+    <None Include="Resources\b_bookmark1.png" />
+    <None Include="Resources\AutoPlayOptIn1.png" />
+    <None Include="Resources\AccountLogo1.png" />
+    <None Include="Resources\1484515694_reports.png" />
+    <None Include="Resources\1484515709_ordering.png" />
+    <None Include="Resources\1484515285_document-dollar.png" />
+    <None Include="Resources\1484515228_document-dollar.png" />
+    <None Include="Resources\invoice-icon %281%29.png" />
+    <None Include="Resources\korganizer-icon2.png" />
+    <None Include="Resources\Designcontest-Ecommerce-Business-Invoice.ico" />
+    <None Include="Resources\1484513029_order-history.png" />
+    <None Include="Resources\1484513069_item-configuration.png" />
+    <None Include="Resources\1484514248_Report.png" />
+    <None Include="Resources\korganizer-icon1.png" />
+    <None Include="Resources\1484513886_users.png" />
+    <None Include="Resources\1484513796_fork3.png" />
+    <None Include="Resources\1484513799_palet02.png" />
+    <None Include="Resources\1484512941_Package-Download.png" />
+    <None Include="Resources\1484513334_User_Customers.png" />
+    <None Include="Resources\1484513026_packing.png" />
+    <None Include="Resources\1484512993_ordering.png" />
+    <None Include="Resources\desktop-icon.png" />
+    <None Include="Resources\tests-icon.png" />
+    <None Include="Resources\korganizer-icon.png" />
+    <None Include="Resources\receipt.png" />
+    <None Include="Resources\login_button.png" />
+    <None Include="Resources\Lubin-2.jpg" />
+    <None Include="Resources\feature-user-management_d8.png" />
+    <None Include="Resources\eset_user.png" />
+    <None Include="Resources\default-user.png" />
+    <None Include="Resources\2016-01-09 09-02-14.740122_user-male-icon.png" />
+    <None Include="Resources\bashaier_logo.png" />
+    <None Include="Resources\green_icon.png" />
+    <None Include="Resources\Login-Page.png" />
+    <None Include="Resources\back.jpg" />
+    <None Include="Resources\hpskyline.jpg" />
+    <None Include="Resources\026.jpg" />
+    <None Include="Resources\Login_page_design_by_Surfer_HUN[9].jpg" />
+    <None Include="Resources\01-circle-login-form-psd-freebie.jpg" />
+    <None Include="Resources\default_user.png" />
+    <None Include="Resources\login2.jpg" />
+    <None Include="Resources\maxresdefault.jpg" />
+    <None Include="Resources\loader.gif" />
+    <None Include="Resources\accept.png" />
+    <None Include="Resources\b_save.png" />
+    <None Include="Resources\delete2[1].png" />
+    <None Include="Resources\b_print.png" />
+    <None Include="Resources\view_next_on.png" />
+    <None Include="Resources\2714[1].png" />
+    <None Include="Resources\2705[1].png" />
+    <None Include="Resources\config.ico" />
+    <None Include="Resources\b_usradd %282%29.png" />
+    <None Include="Resources\b_sql.png" />
+    <None Include="Resources\D83DDC48[1].png" />
+    <None Include="Resources\b_sbrowse.png" />
+    <None Include="Resources\b_usrlist %282%29.png" />
+    <None Include="Resources\b_bookmark.png" />
+    <None Include="Resources\b_chart.png" />
+    <None Include="Resources\icon_16[1].png" />
+    <None Include="Resources\SMEServer.png" />
+    <None Include="Resources\Haiku.png" />
+    <None Include="Resources\icon_16 %284%29.png" />
+    <None Include="Resources\icon_16 %283%29.png" />
+    <None Include="Resources\errorIcon.png" />
+    <None Include="Resources\VSDocs.ico" />
+    <None Include="Resources\error %282%29.png" />
+    <None Include="Resources\settings.ico" />
+    <None Include="Resources\print_pref.ico" />
+    <None Include="Resources\photo[2].png" />
+    <None Include="Resources\mysteryman[1].png" />
+    <None Include="Resources\sale.png" />
+    <None Include="Resources\info.png" />
+    <None Include="Resources\b_usredit.png" />
+    <None Include="Resources\b_usrlist.png" />
+    <None Include="Resources\resources.png" />
+    <None Include="Resources\script_add.png" />
+    <None Include="Resources\128222.png" />
+    <None Include="Resources\questfallback2.png" />
+    <None Include="Resources\s_reload.png" />
+    <None Include="Resources\opensource.png" />
+    <None Include="Resources\favicon_userscripts.png" />
+    <None Include="Resources\harddriveok.png" />
+    <None Include="Resources\harddrivespare.png" />
+    <None Include="Resources\30x30-tool-icon[1].png" />
+    <None Include="Resources\Left2.png" />
+    <None Include="Resources\user-2.png" />
+    <None Include="Resources\s_okay.png" />
+    <None Include="Resources\install-btn-red[2].png" />
+    <None Include="Resources\icon_1282.png" />
+    <None Include="Resources\goto-top[2].png" />
+    <None Include="Resources\install-btn-red[1].png" />
+    <None Include="Resources\loading.gif" />
+    <None Include="Resources\loader[1].gif" />
+    <None Include="Resources\halfencrypted.png" />
+    <None Include="Resources\download.gif" />
+    <None Include="Resources\btn_share[1].png" />
+    <None Include="Resources\menu2.jpg" />
+    <None Include="Resources\AutoPlayOptIn.png" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\edit2.png" />
+    <None Include="Resources\close[1].png" />
+    <None Include="Resources\main-bg[1].png" />
+    <None Include="Resources\web-form.jpg" />
+    <None Include="Resources\agt_utilities.png" />
+    <None Include="Resources\script_download.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\icon_128.png" />
+    <None Include="Resources\name-2138558783._CB379389446_[1].png" />
+    <None Include="Resources\ico2.ico" />
+    <None Include="Resources\new_struct_selected.png" />
+    <None Include="Resources\default[1].png" />
+    <None Include="Resources\favicon.ico" />
+    <None Include="Resources\128.png" />
+    <None Include="Resources\save-money-icon-save-money-icon-iebaaazn.png" />
+    <None Include="Resources\mfagg_36[1].png" />
+    <None Include="Resources\User.ico" />
+    <None Include="Resources\AccountLogo.png" />
+    <None Include="Resources\selling.png" />
+    <None Include="Resources\face.png" />
+    <None Include="Resources\customer.png" />
+    <None Include="Resources\close.gif" />
+    <None Include="Resources\print_property.ico" />
+    <None Include="Resources\company.png" />
+    <None Include="Resources\ajax-loader-grey_round[1].gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Helpers\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>if /I "$(ConfigurationName)" == "Release" Eazfuscator.NET.exe "$(TargetPath)" --msbuild-project-path "$(ProjectPath)" --msbuild-project-configuration "$(ConfigurationName)" --msbuild-project-platform "$(PlatformName)" --msbuild-solution-path "$(SolutionPath)" -n --newline-flush -v 5.2</PostBuildEvent>
+  </PropertyGroup>
+</Project>

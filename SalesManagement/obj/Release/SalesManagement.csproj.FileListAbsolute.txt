@@ -1,0 +1,270 @@
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\bin\Release\برنامج إدارة مبيعات ومشتريات المنشأة.exe.config
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\bin\Release\برنامج إدارة مبيعات ومشتريات المنشأة.exe
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\bin\Release\برنامج إدارة مبيعات ومشتريات المنشأة.pdb
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\bin\Release\EntityFramework.dll
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\bin\Release\EntityFramework.xml
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.Properties.Resources.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.AboutHelpe.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.BackProducts.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.BrowserForm.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.Categories.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.Customers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.CustomersManagement.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.DayReportsForm.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.Login.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.MonthReports.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.NewOrder.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.OrderDetailes.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.Papers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.Products.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.ProductsChooseList.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.ProductsUnits.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.Providers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.ProvidersManagement.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.Movements.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.ReportsCategories.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.View.Settings.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\برنامج إدارة مبيعات ومشتريات المنشأة.exe
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\برنامج إدارة مبيعات ومشتريات المنشأة.pdb
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\SalesManagement2\SalesManagement\obj\Release\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\bin\Release\EntityFramework.dll
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\bin\Release\EntityFramework.xml
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.Properties.Resources.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.AboutHelpe.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.BackProducts.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.BrowserForm.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Categories.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Customers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.CustomersManagement.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.DayReportsForm.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Login.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.MonthReports.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.NewOrder.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.OrderDetailes.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Papers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Products.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.ProductsChooseList.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.ProductsUnits.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Providers.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.ProvidersManagement.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Movements.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.ReportsCategories.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Settings.resources
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\bin\Release\برنامج إدارة المنشأة.exe.config
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\bin\Release\برنامج إدارة المنشأة.exe
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\bin\Release\برنامج إدارة المنشأة.pdb
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\برنامج إدارة المنشأة.exe
+C:\Users\مصطفى العشيرى\Documents\Visual Studio 2012\Projects\Final\SalesManagement_Al3almya\SalesManagement\obj\Release\برنامج إدارة المنشأة.pdb
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Release\EntityFramework.dll
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Release\EntityFramework.xml
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.Properties.Resources.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.AboutHelpe.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.BackProducts.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.BrowserForm.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Categories.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Customers.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.CustomersManagement.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.DayReportsForm.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Login.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.MonthReports.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.NewOrder.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.OrderDetailes.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Papers.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Products.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.ProductsChooseList.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.ProductsUnits.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Providers.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.ProvidersManagement.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Movements.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.ReportsCategories.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.View.Settings.resources
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Release\alamya.exe.config
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Release\alamya.exe
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\bin\Release\alamya.pdb
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\alamya.exe
+C:\Users\mostafa\Documents\Visual Studio 2012\Projects\SalesManagement_Al3almya\SalesManagement\obj\Release\alamya.pdb
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Release\almohands.exe.config
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Release\almohands.exe
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Release\almohands.pdb
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Release\EntityFramework.dll
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Release\EntityFramework.xml
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.Properties.Resources.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.AboutHelpe.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.BackProducts.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.BrowserForm.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Categories.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Customers.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.CustomersManagement.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.DayReportsForm.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Login.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.MonthReports.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.NewOrder.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.OrderDetailes.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Papers.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Products.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.ProductsChooseList.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.ProductsUnits.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Providers.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.ProvidersManagement.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Movements.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.ReportsCategories.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Settings.resources
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\almohands.exe
+C:\Users\ahmed\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\almohands.pdb
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Release\almohands.exe.config
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\almohands.exe
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\almohands.pdb
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Release\almohands.exe
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Release\almohands.pdb
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Release\EntityFramework.dll
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\bin\Release\EntityFramework.xml
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.Properties.Resources.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.AboutHelpe.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.BackProducts.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.BrowserForm.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Categories.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Customers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.CustomersManagement.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.DayReportsForm.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Login.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.MonthReports.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.NewOrder.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.OrderDetailes.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Papers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Products.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.ProductsChooseList.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.ProductsUnits.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Providers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.ProvidersManagement.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Movements.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.ReportsCategories.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.View.Settings.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAlmohands\SalesManagement\obj\Release\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Release\al3alamya.exe.config
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Release\al3alamya.exe
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Release\al3alamya.pdb
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Release\EntityFramework.dll
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Release\EntityFramework.xml
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.Properties.Resources.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.AboutHelpe.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.BackProducts.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.BrowserForm.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Categories.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Customers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.CustomersManagement.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.DayReportsForm.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Login.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.MonthReports.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.NewOrder.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.OrderDetailes.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Papers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Products.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.ProductsChooseList.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.ProductsUnits.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Providers.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.ProvidersManagement.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Movements.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.ReportsCategories.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Settings.resources
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\al3alamya.exe
+C:\Users\aOasheRy\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\al3alamya.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Release\al3alamya.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\al3alamya.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\al3alamya.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Release\al3alamya.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Release\al3alamya.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Release\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\bin\Release\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.AboutHelpe.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.BackProducts.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.BrowserForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Categories.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Customers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.CustomersManagement.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.DayReportsForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.MonthReports.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.NewOrder.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.OrderDetailes.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Papers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Products.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.ProductsChooseList.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.ProductsUnits.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Providers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.ProvidersManagement.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Movements.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.ReportsCategories.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.View.Settings.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement_ِAl3alamya\SalesManagement\obj\Release\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Release\SalesManagement.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Release\SalesManagement.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Release\SalesManagement.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Release\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Release\MetroFramework.Design.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Release\MetroFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\bin\Release\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.Reports.ReportsViewer.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.AboutHelpe.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.BackProducts.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.BrowserForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Categories.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Customers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.CustomersManagement.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.DayReportsForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.FirstUserToAdd.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Login.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.MonthReports.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.NewOrder.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.OrderDetailes.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Papers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Permissions.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.PersonAccountInfo.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Products.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.ProductsChooseList.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.ProductsUnits.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Providers.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.ProvidersManagement.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Movements.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.ReportsCategories.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Settings.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.AutoBackup.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Database.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Expenses.resources
