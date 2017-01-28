@@ -429,7 +429,6 @@ C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\Sal
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.View.Permissions.resources
-C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\bin\Debug\SalesManagement.exe.config
 C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.exe
 C:\Users\Administrator\Desktop\Projects\SalesManagement\SalesManagement\obj\Debug\SalesManagement.pdb

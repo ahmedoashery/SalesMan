@@ -134,6 +134,19 @@ namespace SalesManagement.View
             }
         }
 
+        private void dgvPersonAccountInfo_DataBindingComplete(object sender, DataGridViewBindingCompleteEventArgs e)
+        {
+            // auto numbering
+            if (dgvPersonAccountInfo != null)
+            {
+                for (int r = 0; r < dgvPersonAccountInfo.Rows.Count; r++)
+                {
+                    dgvPersonAccountInfo.Rows[r].HeaderCell.Value = (r + 1).ToString();
+                    dgvPersonAccountInfo.Refresh();
+                }
+            }
+        }
+
         private void btnPrintAccount_Click(object sender, EventArgs e)
         {
             if (this.Text == "   كشف حساب العملاء")
@@ -171,19 +184,6 @@ namespace SalesManagement.View
                 report.Refresh();
                 view.ShowDialog();
                 this.Cursor = Cursors.Default;
-            }
-        }
-
-        private void dgvPersonAccountInfo_DataBindingComplete(object sender, DataGridViewBindingCompleteEventArgs e)
-        {
-            // auto numbering
-            if (dgvPersonAccountInfo != null)
-            {
-                for (int r = 0; r < dgvPersonAccountInfo.Rows.Count; r++)
-                {
-                    dgvPersonAccountInfo.Rows[r].HeaderCell.Value = (r + 1).ToString();
-                    dgvPersonAccountInfo.Refresh();
-                }
             }
         }
     }
