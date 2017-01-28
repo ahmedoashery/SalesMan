@@ -171,20 +171,22 @@ namespace SalesManagement.Model
                 return;
             }
 
-            // raise error if files are not there
+            // extract if files are not there
             if (!Directory.Exists(Application.StartupPath + "\\Initial"))
-                //throw new Exception("لم يتم العثور على الملفات المطلوبة");
                 Process.Start(Application.StartupPath + "\\Initial.exe").WaitForExit();
-                
-            // copy db files to server data path
-            Process.Start(Application.StartupPath + "\\Initial\\copy.cmd").WaitForExit();
-            
+
             // files path
             filesPath = server.Databases[0].PrimaryFilePath;
+
+            // copy db files to server data path
+            File.Copy(Application.StartupPath + "\\Initial\\database files\\products_db.mdf", filesPath + "\\products_db.mdf", true);
+            File.Copy(Application.StartupPath + "\\Initial\\database files\\products_db_log.ldf", filesPath + "\\products_db_log.ldf", true);
+            
 
             // connect to master db
             master_connection();
 
+            // now create database on attached files
             string query = "CREATE DATABASE " + dbname;
                    query += " ON (FILENAME = '" + filesPath + "\\" + dbname + ".mdf'),";
                    query += "(FILENAME = '" + filesPath + "\\" + dbname + "_Log.ldf')";

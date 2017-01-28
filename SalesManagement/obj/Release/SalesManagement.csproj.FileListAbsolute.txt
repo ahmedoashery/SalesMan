@@ -268,3 +268,4 @@ C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\Sal
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.AutoBackup.resources
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Database.resources
 C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.View.Expenses.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\SalesManagement\SalesManagement\obj\Release\SalesManagement.csprojResolveAssemblyReference.cache
